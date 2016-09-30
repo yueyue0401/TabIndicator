@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#88aaff</color>
+    <color name="colorPrimaryDark">#88aaff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabBg">#88aaff</color>
+    <color name="white">#ffffff</color>
+    <color name="background">#f9f9f9</color>
+    <color name="textDisable">#99ffffff</color>
+    <color name="shadowBottom">#150000ff</color>
+    <color name="transparent">#00000000</color>
+</resources>
